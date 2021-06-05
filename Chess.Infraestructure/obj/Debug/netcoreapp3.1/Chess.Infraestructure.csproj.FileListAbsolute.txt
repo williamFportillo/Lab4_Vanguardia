@@ -1,0 +1,12 @@
+C:\Users\willi\source\repos\Laboratorio4\Chess.Infraestructure\bin\Debug\netcoreapp3.1\Chess.Infraestructure.deps.json
+C:\Users\willi\source\repos\Laboratorio4\Chess.Infraestructure\bin\Debug\netcoreapp3.1\Chess.Infraestructure.dll
+C:\Users\willi\source\repos\Laboratorio4\Chess.Infraestructure\bin\Debug\netcoreapp3.1\Chess.Infraestructure.pdb
+C:\Users\willi\source\repos\Laboratorio4\Chess.Infraestructure\obj\Debug\netcoreapp3.1\Chess.Infraestructure.csprojAssemblyReference.cache
+C:\Users\willi\source\repos\Laboratorio4\Chess.Infraestructure\obj\Debug\netcoreapp3.1\Chess.Infraestructure.AssemblyInfoInputs.cache
+C:\Users\willi\source\repos\Laboratorio4\Chess.Infraestructure\obj\Debug\netcoreapp3.1\Chess.Infraestructure.AssemblyInfo.cs
+C:\Users\willi\source\repos\Laboratorio4\Chess.Infraestructure\obj\Debug\netcoreapp3.1\Chess.Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\willi\source\repos\Laboratorio4\Chess.Infraestructure\obj\Debug\netcoreapp3.1\Chess.Infraestructure.dll
+C:\Users\willi\source\repos\Laboratorio4\Chess.Infraestructure\obj\Debug\netcoreapp3.1\Chess.Infraestructure.pdb
+C:\Users\willi\source\repos\Laboratorio4\Chess.Infraestructure\bin\Debug\netcoreapp3.1\Chess.Core.dll
+C:\Users\willi\source\repos\Laboratorio4\Chess.Infraestructure\bin\Debug\netcoreapp3.1\Chess.Core.pdb
+C:\Users\willi\source\repos\Laboratorio4\Chess.Infraestructure\obj\Debug\netcoreapp3.1\Chess.Infraestructure.csproj.CopyComplete
